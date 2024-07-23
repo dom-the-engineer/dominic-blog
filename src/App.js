@@ -12,7 +12,7 @@ function App() {
         <p>Liked { likes } times</p>
         <p>{ 10 }</p>
         <p>{ "hello, lovely people" }</p>
-        <p>{ [1,2,3,4,5] }</p>
+        <p>{ [1,2,3,4,5,6] }</p>
         <p>{ Math.random() * 10 }</p>
         <a href={ link }>Dominic Site</a>
 
