@@ -9,7 +9,7 @@ function App() {
       <Navbar />
       <div className="content">
         <Home />
-        <a href={ link }>Dominic Site</a>
+        <a href={ link }>Hi it's Dominic's Site</a>
 
 
       </div>
